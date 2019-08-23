@@ -1,0 +1,22 @@
+[
+  {
+    "key": "Giris_Yap_Butonu",
+    "value": "nav-link-accountList",
+    "type": "id"
+  },
+  {
+    "key": "Email",
+    "value": "ap_email",
+    "type": "id"
+  },
+  {
+    "key": "Parola",
+    "value": "ap_password",
+    "type": "id"
+  },
+  {
+    "key": "Login_Butonu",
+    "value": "signInSubmit",
+    "type": "id"
+  }
+]

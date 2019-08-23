@@ -1,0 +1,5 @@
+# <email> ve <parola> ile giriş yap
+* "Giris_Yap_Butonu" elementine tıkla
+* "Email" alanına <email> yaz
+* "Parola" alanına <parola> yaz
+* "Login_Butonu" elementine tıkla
